@@ -1,2 +1,2 @@
 # FANUC Robot Tasks
- Set of three tasks accomplished with a FANUC in laboratory. Programs were written and executed in `Python` through `Jupyter Notebooks`.
+ Set of three tasks accomplished with a FANUC in laboratory. Programs were written and executed in `Python` through `Jupyter Notebooks`. Task 1 consisted of moving the arm to a certain location and grabbing an object, and then dropping it off at another location. Task 2 consisted of stacking a random assortment of 1-3 blocks ontop of eachother, based on user input. Lastly, Task 3 consisted of getting the robot arm to write a 3 letter word onto paper using a marker, based on the inputted combination.
